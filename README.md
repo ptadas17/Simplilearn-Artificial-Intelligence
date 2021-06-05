@@ -1,5 +1,6 @@
 # Simplilearn-Artificial-Intelligence
-Project solutions for Simplilearn's AI Engineer Masters Certificate
+Project solutions for Simplilearn's AI Engineer Masters Program
+
 
 1. Data Science with Python: Movielens Case Study
 
